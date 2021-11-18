@@ -1,27 +1,27 @@
 {
-  "name": "daledale",
+  "name": "endoida",
   "version": "1.0.0",
-  "description": "Dale dale dale dale pqp",
+  "description": "Endoida caralho",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "git+ssh://git@github.com/iagocavalcante/daledale.git"
   },
   "keywords": [
-    "daledale"
+    "endoida"
   ],
-  "author": "AnaBastos",
+  "author": "Iago Cavalcante",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
+    "url": "https://github.com/iagocavalcante/daledale/issues"
   },
-  "homepage": "https://github.com/anabastos/daledale#readme",
+  "homepage": "https://github.com/iagocavalcante/daledale#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   }

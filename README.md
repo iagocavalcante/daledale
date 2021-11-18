@@ -1,10 +1,10 @@
-# DaleDale Command Line Sound
+# Endoida Command Line Sound
 
 <div style="text-align: center">
     <img src="./daledale.jpg" height="300"/>
 </div>
 
-> Dale dale dale dale PQP! 
+> Endoida caralho! 
 
 ## Compatibility
 
@@ -15,28 +15,21 @@
 ## Installing
 Install globally:
 
-    npm install -g daledale
+    npm install -g endoida
 
 ## Running
 Run command:
 
-    daledale
+    endoida
 
 Or import in NodeJS script:
 
-    import daledale from 'daledale';
+    import endoida from 'endoida';
 
-    daledale();
+    endoida();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx daledale
+    npx endoida
 
-
-## See also
-
- - [Oloquinho](https://github.com/oloquinho/oloquinho)
- - [xFiles](https://github.com/BrOrlandi/xfiles/)
- - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
- - [Omaewa](https://github.com/BrOrlandi/omaewa/)

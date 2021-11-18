@@ -6,9 +6,9 @@ const fs = require('fs');
 const R = require('ramda');
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
-const soundPath = path.join(mainPath, './daledale');
+const soundPath = path.join(mainPath, './endoida_caralho');
 
-const daledale = function (){
+const endoida = function (){
     const linuxcmd = R.join('', ['paplay ', soundPath, '.ogg']);
     const windowscmd = R.join('', [path.join(mainPath, './forWindows.vbs'), ' ', soundPath, '.mp3']);
     const maccmd = R.join('', ['afplay ', soundPath, '.mp3']);
@@ -32,8 +32,8 @@ const daledale = function (){
     }
 }
 
-module.exports = daledale;
+module.exports = endoida;
 
 if (!module.parent) {
-    daledale();
+    endoida();
 }

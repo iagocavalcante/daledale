@@ -1,7 +1,7 @@
 # Endoida Command Line Sound
 
 <div style="text-align: center">
-    <img src="./daledale.jpg" height="300"/>
+    <img src="./endoida-caralho.jpeg" height="300"/>
 </div>
 
 > Endoida caralho! 
